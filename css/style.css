@@ -24,6 +24,10 @@ header {
     width: 100%;
 }
 
+.img-logo {
+    cursor: pointer;
+}
+
 .header-right {
     display: flex;
 }
@@ -42,6 +46,13 @@ header {
     font-size: 13px;
     line-height: 24px;
     margin-right: 27px;
+    cursor: pointer;
+}
+
+.purchase {
+    cursor: pointer;
+    width: 40px;
+    height: 40px;
 }
 
 
@@ -106,6 +117,7 @@ h1 {
 figure {
     float: left;
     margin: 0;
+    cursor: pointer;
 }
 
 figure p {
@@ -150,6 +162,7 @@ footer {
 
 
 .uber-title {
+    cursor: pointer;
     color: #fff;
     margin-top: 34px;
     margin-bottom: 60px;
@@ -161,6 +174,7 @@ span {
 
 .social-network {
     margin: 10px;
+    cursor: pointer;
 }
 
 .link {
@@ -177,6 +191,7 @@ span {
 }
 
 .app-img {
+    cursor: pointer;
     margin: 20px;
 
 }
